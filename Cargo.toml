@@ -166,7 +166,7 @@ ahash = "0.8.12"
 arc-swap = "1.7.1"
 async-trait = "0.1.89"
 base64 = "0.22.1"
-bytes = "1.10.1"
+bytes = "1.11.1"
 bytesize = { version = "2.1.0", features = ["serde"] }
 bollard = "0.19.3"
 bstr = "1.12.0"
